@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.navbar {
+    background: #2c3e50;
+    height: 100%;
+    width:100%; 
+    border: 15px solid #2c3e50; 
+}
+.navbar ul li a:hover {
+    color: #24a895;
+}
+
+
+.navbar .start a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.8rem;
+    padding: 100px;  
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.0rem;
+    font-weight: bold;
+    margin-right: 20px;   
+}
+
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    padding-right: 40px;
+    margin-top: 20px;
+}
+.main {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background: #1abc9c;
+    color: #fff;
+    
+}
+.main img {
+    width: 15%;
+    height: 15%;
+    padding-top: 100px;
+    margin-bottom: 30px;
+}
+.main h2 {
+    font-size: 4.2rem;
+    
+}
+.main h6 {
+    font-size: 1.4rem;
+    padding-bottom: 100px;
+}
+
+ .container h3 {
+    text-align: center;
+    font-size: 3.1rem;
+    color: #2c3e50;
+    margin-top: 60px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-family: sans-serif; 
+    display: block;   
+
+}
+
+.container .row .col-4 img {
+    display: block;
+    border-radius: 8px;
+    max-width: 22rem;
+    overflow: hidden;
+}
+.container .row-2 .col2-4 img {
+    display: block;
+    border-radius: 8px;
+    max-width: 22rem;
+    overflow: hidden;
+}
+
+.about {
+    background: #1abc9c;
+    width: 100%;
+    height: 50%;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 80px;
+
+}
+.about h3{
+    font-family: sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 60px;
+    color: #fff;
+    font-weight: bold;
+    display: block;
+}
+.about .row .col-6 p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+      
+}
+
+.about .row {
+    margin-left: 310px;
+    margin-top: 50px;
+}
+.about .buttons .button {
+    border: 2px solid #fff;
+    text-align: center;
+    width: 220px;
+    height: 70px;
+    padding-top: 15px;
+    display: block;
+    margin-left: 570px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.about .buttons .button:hover {
+    color: black;
+    background-color: #fff;
+
+}
+
+ .adres {
+    background: 
+    #2c3e50;
+    position: absolute;
+    border: 1px solid #fff;
+    width: 100%;
+    height: 200px;
+    padding-left: 200px;
+    color: #fff;
+    border: none;
+    display: block;
+    padding-top: 30px;
+    padding-right: 120px;
+
+
+}
+.adres .row .col-4 a{
+    color: #1abc9c;
+
+}
+.adres .row .col-4 a:hover {
+    color: #198754;
+}
+
+ .end {
+    border: 5px solid black;
+    width:100%;
+    height:70px;
+    position: absolute;
+    display: block;
+    text-align: center;
+    margin-top: 170px;
+    color: #fff;
+    background: #1a252f;
+    border: none;
+    padding-top: 20px;
+ }
+
+
+
+
+       
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
